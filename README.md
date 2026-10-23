@@ -149,7 +149,7 @@ Only to activate your key and for the occasional license re-check. Reading Markd
 Not right now. MD Reader is Windows-only (10 and 11, 64-bit).
 
 **How do I update?**
-Download the newest zip from [Releases](https://github.com/kunalsahu20/mdreader/releases/latest) and replace your old folder. Your license activation and theme are stored in Windows, not in that folder, so they carry over.
+Download the newest zip from [Releases](https://github.com/kunalsahu20/mdreader/releases/latest) and replace your old folder. Your license activation and theme are saved in your Windows user profile, not in the app folder, so they carry over.
 
 ## Links
 
