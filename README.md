@@ -89,7 +89,7 @@ Anyone can download the zip from this page, but the app needs a paid license key
   <img src="assets/screenshot-activate.png" alt="MD Reader's activation screen: 'Enter your license key', a key field, an Activate button and a 'Buy MD Reader — $9.99' link" width="620">
 </p>
 
-Under the [EULA](https://mdreader.happie.in/eula/), one license covers one person on up to three Windows PCs. It's fine for personal and commercial use. To move MD Reader to another PC, open **License** in the title bar and choose **Deactivate this PC**.
+**One license, one PC.** Each license activates on one PC: the first one you activate it on, and it stays with that PC for good. Reinstalling on the same PC is fine. Buying for another PC needs another license, so activate on the PC you'll actually use MD Reader on. It's fine for personal and commercial use. The full terms are in the [EULA](https://mdreader.happie.in/eula/).
 
 Lost your key email? Write to [founder@happie.in](mailto:founder@happie.in) from the address you bought with.
 
@@ -113,7 +113,7 @@ Get-FileHash .\MDReader-win-x64.zip -Algorithm SHA256
 - Your Markdown files stay on your PC. MD Reader reads them locally and never uploads them.
 - Agent detection reads local files and window titles, and doesn't change anything.
 - The document view is locked down so it can't load anything from the internet. Web links only open in your browser when you click them.
-- **The only network traffic is the license check** with Dodo Payments: once when you activate, a quiet re-check about every two weeks, and when you deactivate a PC. If you're offline, an activated copy keeps working through a 30-day grace period.
+- **The only network traffic is the license check** with Dodo Payments: once when you activate, then a quiet re-check about every two weeks. If you're offline, an activated copy keeps working through a 30-day grace period.
 
 Full details are in the [privacy policy](https://mdreader.happie.in/privacy/).
 
@@ -136,6 +136,9 @@ No. MD Reader is closed source. This repository only holds the release downloads
 **Does it edit my files?**
 No. It's a reader. It never writes to your Markdown files or to your agents' data.
 
+**Can I use one license on two PCs?**
+No. Each license activates on one PC. Reinstalling on the same PC is fine. Buying for another PC needs another license.
+
 **Is it a subscription?**
 No. You pay $9.99 once, and all updates are included.
 
@@ -149,7 +152,7 @@ Only to activate your key and for the occasional license re-check. Reading Markd
 Not right now. MD Reader is Windows-only (10 and 11, 64-bit).
 
 **How do I update?**
-Download the newest zip from [Releases](https://github.com/kunalsahu20/mdreader/releases/latest) and replace your old folder. Your license activation and theme are saved in your Windows user profile, not in the app folder, so they carry over.
+Download the newest zip from [Releases](https://github.com/kunalsahu20/mdreader/releases/latest) and replace your old folder on the same PC. Your license activation and theme are saved in your Windows user profile, not in the app folder, so they carry over.
 
 ## Links
 
