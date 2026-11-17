@@ -17,4 +17,4 @@ Unless the EULA says otherwise, you may not copy, modify, redistribute, sublicen
 
 The logo and screenshots in `assets/` are © Kunal Sahu. You may use them only to refer to MD Reader.
 
-Questions: founder@happie.in
+Questions: kunalsahu1980@gmail.com

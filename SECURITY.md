@@ -2,7 +2,7 @@
 
 ## Reporting a security problem
 
-If you think you've found a security vulnerability in MD Reader, **please don't open a public issue.** Email **founder@happie.in** instead, with:
+If you think you've found a security vulnerability in MD Reader, **please don't open a public issue.** Email **kunalsahu1980@gmail.com** instead, with:
 
 - the MD Reader version and Windows version
 - what you found and how to reproduce it
@@ -15,7 +15,7 @@ Only the latest release receives security fixes.
 ## Support
 
 - **Bugs:** open an issue at https://github.com/kunalsahu20/mdreader/issues
-- **License keys, payments, lost key emails:** email founder@happie.in. Never post your license key in an issue.
+- **License keys, payments, lost key emails:** email kunalsahu1980@gmail.com. Never post your license key in an issue.
 - **Website:** https://mdreader.happie.in
 
 ## Getting MD Reader safely

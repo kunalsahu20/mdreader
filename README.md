@@ -91,7 +91,7 @@ Anyone can download the zip from this page, but the app needs a paid license key
 
 **One license, one PC.** Each license activates on one PC: the first one you activate it on, and it stays with that PC for good. Reinstalling on the same PC is fine. Buying for another PC needs another license, so activate on the PC you'll actually use MD Reader on. It's fine for personal and commercial use. The full terms are in the [EULA](https://mdreader.happie.in/eula/).
 
-Lost your key email? Write to [founder@happie.in](mailto:founder@happie.in) from the address you bought with.
+Lost your key email? Write to [kunalsahu1980@gmail.com](mailto:kunalsahu1980@gmail.com) from the address you bought with.
 
 For refunds, see the [refund policy](https://mdreader.happie.in/refund/).
 
@@ -126,7 +126,7 @@ Please [open an issue](https://github.com/kunalsahu20/mdreader/issues/new). Thes
 - A screenshot, if you can share one
 - The logs in `%LOCALAPPDATA%\MdReader\`, such as `error.log`. Remove anything private first.
 
-**Please don't post your license key in an issue.** For anything to do with payments or keys, or for a security problem, email [founder@happie.in](mailto:founder@happie.in) instead. See [SECURITY.md](SECURITY.md).
+**Please don't post your license key in an issue.** For anything to do with payments or keys, or for a security problem, email [kunalsahu1980@gmail.com](mailto:kunalsahu1980@gmail.com) instead. See [SECURITY.md](SECURITY.md).
 
 ## FAQ
 
@@ -162,7 +162,7 @@ Download the newest zip from [Releases](https://github.com/kunalsahu20/mdreader/
 - EULA: [mdreader.happie.in/eula/](https://mdreader.happie.in/eula/)
 - Privacy: [mdreader.happie.in/privacy/](https://mdreader.happie.in/privacy/)
 - Refund policy: [mdreader.happie.in/refund/](https://mdreader.happie.in/refund/)
-- Contact: [founder@happie.in](mailto:founder@happie.in) · X [@kunalsahu20_](https://x.com/kunalsahu20_)
+- Contact: [kunalsahu1980@gmail.com](mailto:kunalsahu1980@gmail.com) · X [@kunalsahu20_](https://x.com/kunalsahu20_)
 
 ## License
 
